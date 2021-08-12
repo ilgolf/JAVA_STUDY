@@ -1,7 +1,5 @@
-package me.java.golf.study.datastructure;
+package me.java.golf.study.step4.datastructure;
 
-import me.java.golf.study.step4.datastructure.LinkedList;
-import me.java.golf.study.step4.datastructure.ListNode;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
